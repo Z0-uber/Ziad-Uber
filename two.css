@@ -1,0 +1,105 @@
+/* #ll{ 
+padding:10px ;
+padding-right:-100%;
+padding-left:50px;
+width:40%;
+margin-left:  auto;
+margin-right: auto ;
+/* border: 5px  solid; */
+/* border-color: purple
+}
+
+span{
+    background-color: rgb(70, 24, 138);
+}
+
+.mm{
+    border-color: rgb(0, 0, 0);  
+}
+
+.o{
+    font: size 15pxpc;
+    background: aqua;
+} */
+/* 
+body{
+background-image: url(c:/Users/ziad/Downloads/milkyway-8190232_1280.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+overflow:auto;
+}
+
+div{
+    color: beige;
+}
+
+#ziad{
+    /* background-color: purple; */
+    /* color: rebeccapurple;
+    text-shadow: 4px 3px 5px purple;
+    text-align: center;
+} */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    direction: rtl;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(0, 0, 0);
+    /* background-image: url(c:/Users/ziad/Downloads/milkyway-8190232_1280.jpg); */
+}
+.container {
+    max-width: 500px;
+    margin: auto;
+    background: #3c11b3;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgb(255, 255, 255);
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(c:/Users/ziad/Downloads/man-3639100_1280.jpg);
+    background-size:contain;
+
+    
+}
+h1 {
+text-align: right;
+}
+label {
+    color: rgb(255, 255, 255);
+    display: block;
+    margin: 10px 0 5px;
+}
+input, select, button {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #00ffd9;
+    border-radius: 5px;
+}
+button {
+    background-color: #f30000;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #00ff04;
+}
+#cssx{
+    behavior: smoth;
+}
